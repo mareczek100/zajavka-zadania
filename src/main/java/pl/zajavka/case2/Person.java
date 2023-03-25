@@ -15,4 +15,5 @@ record Person(String name, BigDecimal salary) {
     public Boolean doYouHaveABike() {
         return true;
     }
+
 }
